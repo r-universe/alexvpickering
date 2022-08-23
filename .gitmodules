@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GEOfastq"]
+	path = GEOfastq
+	url = https://github.com/alexvpickering/geofastq
+	shallow = true
+	registered = true
