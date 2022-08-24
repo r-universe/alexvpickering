@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "crossmeta"]
+	path = crossmeta
+	url = https://github.com/alexvpickering/crossmeta
+	shallow = true
+	registered = true
 [submodule "GEOfastq"]
 	path = GEOfastq
 	url = https://github.com/alexvpickering/geofastq

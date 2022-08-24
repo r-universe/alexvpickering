@@ -1,5 +1,8 @@
 [
   {
+    "package": "crossmeta"
+  },
+  {
     "package": "GEOfastq"
   }
 ]
