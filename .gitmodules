@@ -13,3 +13,13 @@
 	url = https://github.com/alexvpickering/geofastq
 	shallow = true
 	registered = true
+[submodule "shinydlplot"]
+	path = shinydlplot
+	url = https://github.com/alexvpickering/shinydlplot
+	shallow = true
+	registered = true
+[submodule "shinypanel"]
+	path = shinypanel
+	url = https://github.com/alexvpickering/shinypanel
+	shallow = true
+	registered = true

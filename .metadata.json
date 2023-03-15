@@ -4,5 +4,13 @@
   },
   {
     "package": "GEOfastq"
+  },
+  {
+    "package": "shinydlplot",
+    "oncran": true
+  },
+  {
+    "package": "shinypanel",
+    "oncran": true
   }
 ]
