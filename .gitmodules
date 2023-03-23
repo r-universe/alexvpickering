@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ccmap"]
+	path = ccmap
+	url = https://git.bioconductor.org/packages/ccmap
+	shallow = true
+	registered = true
 [submodule "crossmeta"]
 	path = crossmeta
 	url = https://github.com/alexvpickering/crossmeta
