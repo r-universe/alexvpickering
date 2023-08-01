@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GEOfastq"]
+	path = GEOfastq
+	url = https://github.com/alexvpickering/geofastq
 [submodule "ccmap"]
 	path = ccmap
 	url = https://git.bioconductor.org/packages/ccmap
 [submodule "crossmeta"]
 	path = crossmeta
 	url = https://github.com/alexvpickering/crossmeta
-[submodule "GEOfastq"]
-	path = GEOfastq
-	url = https://github.com/alexvpickering/geofastq
 [submodule "shinydlplot"]
 	path = shinydlplot
 	url = https://github.com/alexvpickering/shinydlplot
