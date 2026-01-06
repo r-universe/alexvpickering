@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "shinydlplot"]
-	path = shinydlplot
-	url = https://github.com/alexvpickering/shinydlplot
 [submodule "shinypanel"]
 	path = shinypanel
 	url = https://github.com/alexvpickering/shinypanel
